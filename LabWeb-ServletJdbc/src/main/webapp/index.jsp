@@ -17,7 +17,11 @@
 <p>This is second message.</p><br>
 <p>This is third message.</p><br>
 <p></p><br>
+<<<<<<< HEAD
+
+=======
 <p>20190510-1611</p><br>
+>>>>>>> branch 'master' of https://github.com/EEIT106Team3/remoterepository.git
 
 
 </body>

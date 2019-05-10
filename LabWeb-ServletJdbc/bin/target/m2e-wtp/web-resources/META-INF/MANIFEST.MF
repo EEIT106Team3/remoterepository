@@ -1,5 +1,10 @@
 Manifest-Version: 1.0
+<<<<<<< HEAD
+Built-By: User
+Build-Jdk: 11.0.1-ojdkbuild
+=======
 Built-By: chownan
 Build-Jdk: 11.0.2
+>>>>>>> branch 'master' of https://github.com/EEIT106Team3/remoterepository.git
 Created-By: Maven Integration for Eclipse
 

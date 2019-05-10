@@ -1,4 +1,9 @@
 <<<<<<< HEAD
+/.settings/
+/.classpath
+/.project
+=======
+<<<<<<< HEAD
 /.classpath
 /.project
 /.springBeans
@@ -10,4 +15,5 @@
 /.project
 /.springBeans
 /pom.xml
+>>>>>>> branch 'master' of https://github.com/EEIT106Team3/remoterepository.git
 >>>>>>> branch 'master' of https://github.com/EEIT106Team3/remoterepository.git
