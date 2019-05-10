@@ -14,6 +14,7 @@
 <h3><a href="<c:url value="/pages/product.jsp" />">Poduct</a></h3>
 <p>This is first message.</p><br>
 <p>This is second message.</p><br>
+<p>This is third message.</p><br>
 <p></p><br>
 </body>
 </html>
