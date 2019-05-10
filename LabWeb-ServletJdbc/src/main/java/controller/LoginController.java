@@ -44,7 +44,6 @@ public class LoginController {
 		}
 		
 		if(errors!=null && !errors.isEmpty()) {
-			System.out.println("123");
 			return "login.input";
 		}
 				
