@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 /.classpath
 /.project
 /.springBeans
 /pom.xml
 /.settings/
+=======
+/.settings/
+/.classpath
+/.project
+/.springBeans
+/pom.xml
+>>>>>>> branch 'master' of https://github.com/EEIT106Team3/remoterepository.git
