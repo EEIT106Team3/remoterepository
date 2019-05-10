@@ -27,6 +27,7 @@ public class ProductIdController {
 		ex.printStackTrace();
 		return this.method(-2);
     }
+	
 	@RequestMapping(path= {"/pages/product.view"})
 	@ResponseBody
 	public ResponseEntity<?> method(
