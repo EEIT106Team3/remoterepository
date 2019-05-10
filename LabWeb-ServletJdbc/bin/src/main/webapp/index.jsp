@@ -12,6 +12,7 @@
 <h3>Welcome ${user.email}</h3>
 <h3><a href="<c:url value="/secure/login.jsp" />">Login</a></h3>
 <h3><a href="<c:url value="/pages/product.jsp" />">Poduct</a></h3>
+<<<<<<< HEAD
 
 <p>This is first message.</p><br>
 <p>This is second message.</p><br>
@@ -20,5 +21,8 @@
 
 
 
+=======
+
+>>>>>>> branch 'master' of https://github.com/EEIT106Team3/remoterepository.git
 </body>
 </html>

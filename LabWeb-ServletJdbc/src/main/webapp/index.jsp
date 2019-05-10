@@ -9,7 +9,7 @@
 </head>
 <body>
 
-<h3>Welcome ${user.email}</h3>
+<h3>Hello Welcome ${user.email}</h3>
 <h3><a href="<c:url value="/secure/login.jsp" />">Login</a></h3>
 <h3><a href="<c:url value="/pages/product.jsp" />">Poduct</a></h3>
 
@@ -17,7 +17,11 @@
 <p>This is second message.</p><br>
 <p>This is third message.</p><br>
 <p></p><br>
+<<<<<<< HEAD
 
+=======
+<p>20190510-1611</p><br>
+>>>>>>> branch 'master' of https://github.com/EEIT106Team3/remoterepository.git
 
 
 </body>
