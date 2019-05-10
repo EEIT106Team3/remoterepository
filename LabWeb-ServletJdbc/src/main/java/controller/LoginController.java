@@ -30,6 +30,9 @@ public class LoginController {
 	
 	@RequestMapping(path=
 		
+			
+			
+			
 		{"/secure/login.controller"})
 	public String method(String username, String password, Model model) {
 		Locale locale = LocaleContextHolder.getLocale();
