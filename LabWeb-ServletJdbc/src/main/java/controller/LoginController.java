@@ -16,8 +16,7 @@ import model.CustomerBean;
 import model.CustomerService;
 
 @Controller
-@SessionAttributes(names=
-{"user"})
+@SessionAttributes(names={"username"})
 public class LoginController {
 	@Autowired
 	private CustomerService customerService;
