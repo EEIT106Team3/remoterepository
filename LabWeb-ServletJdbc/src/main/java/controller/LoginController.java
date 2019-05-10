@@ -24,9 +24,7 @@ public class LoginController {
 	@Autowired
 	private ApplicationContext context;
 	
-	@RequestMapping(
-			path={"/secure/login.controller"}
-	)
+	@RequestMapping(path={"/secure/login.controller"})
 	public String method(String username, String password, Model model) {
 		Locale locale = LocaleContextHolder.getLocale();
 		System.out.println("locale="+locale);
