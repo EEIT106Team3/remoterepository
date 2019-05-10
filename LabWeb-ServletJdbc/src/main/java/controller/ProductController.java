@@ -41,6 +41,7 @@ public class ProductController {
 //轉換資料
 		Map<String, String> errors = new HashMap<>();
 		model.addAttribute("errorMsgs", errors);
+		System.out.println("123");
 
 		if(bindingResult!=null && bindingResult.hasFieldErrors()) {
 			if(bindingResult.hasFieldErrors("id")) {
