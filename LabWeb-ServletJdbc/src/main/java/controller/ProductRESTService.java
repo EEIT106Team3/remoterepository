@@ -40,6 +40,7 @@ public class ProductRESTService {
 	public ResponseEntity<?> findByPrimaryKey(@PathVariable(value="id") String temp) {
 		System.out.println("method2() id=" + temp);
 		try {
+			System.out.println("123");
 			int id = Integer.parseInt(temp);
 			ProductBean result = productDao.findByPrimaryKey(id);
 			if(result!=null) {

@@ -38,6 +38,7 @@ public class LoginController {
 //驗證資料
 		Map<String, String> errors = new HashMap<String, String>();
 		model.addAttribute("errors", errors);
+		System.out.println("123");
 		
 		if(username==null || username.length()==0) {
 			errors.put("username",

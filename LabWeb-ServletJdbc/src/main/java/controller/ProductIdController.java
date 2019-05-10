@@ -35,6 +35,7 @@ public class ProductIdController {
 		JSONArray output = new JSONArray();
 //接收資料
 //驗證資料、轉換資料
+		System.out.println("123");
 		if(id.equals(-1)) {
 			JSONObject obj = new JSONObject();
 			obj.put("text", "Id是必要欄位");
